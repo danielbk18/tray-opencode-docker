@@ -16,7 +16,7 @@ To check that ruby is working `ruby -v`
 
 Finally, just run `opencode watch` to start development.
 
-If this hell command doesn't work, just update manually the files and run
+If this command doesn't work, just update manually the files and run
 
 `opencode upload <file>`
 
